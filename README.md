@@ -1,3 +1,1 @@
-
-
 # jogo-numero-secreto
